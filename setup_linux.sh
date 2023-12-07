@@ -1,3 +1,4 @@
+#!/bin/bash
 sudo add-apt-repository -y ppa:deadsnakes/ppa
 sudo apt update
 sudo apt-get -y install python3.10-dev
